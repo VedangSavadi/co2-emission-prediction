@@ -7,7 +7,7 @@ As a Data Scientist, I undertook an exciting project to develop a predictive mod
 
 ✅ Data Exploration: I conducted thorough data exploration, cleaning, and preprocessing to ensure the quality of the dataset, identifying relevant features, and handling missing values.
 
-📈 Regression Modeling: Utilizing regression techniques including Linear Regression, Decision Tree Regression, and Random Forest Regression, I built and fine-tuned predictive models to accurately estimate CO2 emissions.
+📈 Regression Modeling: Utilizing regression techniques including Linear Regression, multi-linear Regression, and logistic Regression, I built and fine-tuned predictive models to accurately estimate CO2 emissions.
 
 📉 Model Evaluation: I employed industry-standard metrics to evaluate model performance, ensuring robust predictions and identifying the most effective regression approach.
 
